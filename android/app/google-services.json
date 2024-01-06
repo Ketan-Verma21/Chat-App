@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315082686996",
+    "project_id": "chatapp-cad92",
+    "storage_bucket": "chatapp-cad92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315082686996:android:1d40c7036ef2823f815d01",
+        "android_client_info": {
+          "package_name": "com.example.firebasexchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe1WPzs2LFR0j8Unk4d5iQjABlsU9_T3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
