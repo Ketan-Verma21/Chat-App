@@ -40,7 +40,7 @@ To get a copy of the project up and running on your local machine, follow these 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Ketan-Verma21/Chat-App.git
-   cd Chat-App
+   cd firebasexchatapp
    ```
 
 2. **Set up Firebase:**
