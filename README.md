@@ -15,14 +15,14 @@ Welcome to **ChatApp**! This project is a feature-rich, real-time messaging appl
 ## Screenshots
 
 <div style="display: flex; overflow-x: auto; padding: 10px; gap: 50px;">
-  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/2451ac79-2835-4e73-93e9-1acb4cfc0ed0" alt="Login Screen" width="450" />
-  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/bbe0d802-9adf-424a-8fc5-67473c0113a3" alt="Register Screen" width="450" />
-  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/d6d64805-6862-43f4-a527-d1678f01d92c" alt="Chat Screen" width="450" />
-  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/e0eae6ca-ae3a-4ddf-96f9-736ff65a67c9" alt="Contact Screen (Dark)" width="450" />
-  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/09c6a39a-ae78-4917-b566-81b17d24084c" alt="Contact Screen" width="450" />
-  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/cded51a3-0ca5-4e08-a023-10936e0ea437" alt="Settings" width="450" />
-  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/ff930e69-9095-408b-b3eb-27dd4757edd2" alt="Side Drawer (Dark)" width="450" />
-  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/7f870da3-90c2-4435-bb30-7eb5279a71b6" alt="Side Drawer" width="450" />
+  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/2451ac79-2835-4e73-93e9-1acb4cfc0ed0" alt="Login Screen" height="450" />
+  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/bbe0d802-9adf-424a-8fc5-67473c0113a3" alt="Register Screen" height="450" />
+  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/d6d64805-6862-43f4-a527-d1678f01d92c" alt="Chat Screen" height="450" />
+  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/e0eae6ca-ae3a-4ddf-96f9-736ff65a67c9" alt="Contact Screen (Dark)" height="450" />
+  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/09c6a39a-ae78-4917-b566-81b17d24084c" alt="Contact Screen" height="450" />
+  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/cded51a3-0ca5-4e08-a023-10936e0ea437" alt="Settings" height="450" />
+  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/ff930e69-9095-408b-b3eb-27dd4757edd2" alt="Side Drawer (Dark)" height="450" />
+  <img src="https://github.com/Ketan-Verma21/Chat-App/assets/106913278/7f870da3-90c2-4435-bb30-7eb5279a71b6" alt="Side Drawer" height="450" />
 </div>
 
 ## Getting Started
